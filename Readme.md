@@ -1,6 +1,6 @@
 # Recipe_App
 
-Website : https://debrajhyper.github.io/Recipe_App/
+Website :https://github.com/Payalpriya5/Recipe_App
 
 
     Find your everyday cooking inspiration on Recipe Website. 🥣

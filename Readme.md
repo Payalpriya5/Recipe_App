@@ -12,7 +12,7 @@ Website : https://debrajhyper.github.io/Recipe_App/
 
 
 # Website Info
-Designed by <a href="https://github.com/debrajhyper">Debraj Karmakar</a>
+Designed by <a href="https://github.com/Payalpriya5">Payal Priyadarsini</a>
 
 Technology Used :
 * HTML5
